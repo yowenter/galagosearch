@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/117/tags/galagosearch-1.04/galagosearch-core/src/main/java/org/galagosearch/core/retrieval/traversal
+END
+ImplicitFeatureCastTraversal.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/117/tags/galagosearch-1.04/galagosearch-core/src/main/java/org/galagosearch/core/retrieval/traversal/ImplicitFeatureCastTraversal.java
+END
+RemoveStopwordsTraversal.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/117/tags/galagosearch-1.04/galagosearch-core/src/main/java/org/galagosearch/core/retrieval/traversal/RemoveStopwordsTraversal.java
+END
+AddCombineTraversal.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/117/tags/galagosearch-1.04/galagosearch-core/src/main/java/org/galagosearch/core/retrieval/traversal/AddCombineTraversal.java
+END
+IndriWindowCompatibilityTraversal.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/117/tags/galagosearch-1.04/galagosearch-core/src/main/java/org/galagosearch/core/retrieval/traversal/IndriWindowCompatibilityTraversal.java
+END
+TextFieldRewriteTraversal.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/117/tags/galagosearch-1.04/galagosearch-core/src/main/java/org/galagosearch/core/retrieval/traversal/TextFieldRewriteTraversal.java
+END
+WeightConversionTraversal.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/117/tags/galagosearch-1.04/galagosearch-core/src/main/java/org/galagosearch/core/retrieval/traversal/WeightConversionTraversal.java
+END

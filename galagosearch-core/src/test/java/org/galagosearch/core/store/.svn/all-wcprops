@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/117/tags/galagosearch-1.04/galagosearch-core/src/test/java/org/galagosearch/core/store
+END
+SnippetGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/117/tags/galagosearch-1.04/galagosearch-core/src/test/java/org/galagosearch/core/store/SnippetGeneratorTest.java
+END
+DocumentIndexStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/117/tags/galagosearch-1.04/galagosearch-core/src/test/java/org/galagosearch/core/store/DocumentIndexStoreTest.java
+END
